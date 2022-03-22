@@ -1,2 +1,3 @@
-# Volcano_and_Population_Map
-App that represent data from json and csv file about volcanos and population - check readme for more info.
+# Volcano and population mapApp
+
+## Simple app that with help of folium library for python, represent data from json and csv file on map by creating a file map1.html // Data set of around 100 volcanos and population data from year 2005 was attached.
