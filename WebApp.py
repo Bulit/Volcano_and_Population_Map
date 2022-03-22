@@ -1,5 +1,3 @@
-from turtle import color, fillcolor
-from unicodedata import name
 import folium
 import pandas
 
